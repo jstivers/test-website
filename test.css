@@ -1,0 +1,8 @@
+body{
+    padding-top: 30px;
+    font-family: "Apple Braille", Damascus;
+    font-size: 18px;
+}
+div1{
+    background-image: image();
+}
